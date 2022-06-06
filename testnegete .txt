@@ -1,0 +1,1 @@
+assembly kodun oluşturduğu 12 bitlik hexi kontrol et 800 den büyükse başına f ekleyip aç binary olarak
