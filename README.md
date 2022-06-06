@@ -56,20 +56,19 @@
   <p>
     The scene that is the game played.
   </p>
+  <img src="pictures\gamemenu.png" alt="">
   
   <h5>2.2.2.Main menu scene:</h5>
   <p>
   The scene is the main menu to start the game, quit the game, or choose the car that is wanted to use as the main car.
-
+    <img src="pictures\mainmenu.png" alt="">
   </p>
   <h5>2.2.3.Game over menu scene:</h5>
   <p>
    The scene appears when the car collide to another car. Score, main menu, and quit buttons can be clicked in this scene.
-
   </p>
+  <img src="pictures\gameover.png" alt="">
 
-
-  <h3> EXAMPLES OF OUTPUT </h3>
 
 </body>
 
